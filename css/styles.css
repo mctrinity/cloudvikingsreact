@@ -1,0 +1,63 @@
+body {
+  font-family: "Ubuntu";
+}
+
+#title {
+  background-color: #1A374D;
+  color: #FFF;
+  padding: 0px 0px 3px 0;
+}
+
+h1 {
+  font-family: "Ubuntu";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  text-align: center;
+  padding: 20px 0 20px 0;
+  position: relative;
+  z-index: 1;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+#feature {
+  background-color: #FFF;
+  color: #6998AB;
+  padding: 50px 50px;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 3.5%;
+}
+
+#clan-details {
+  background-color: #6998AB;
+  color: #FFF;
+  padding: 50px 50px;
+}
+
+#call-to-action {
+  background-color: #406882;
+  color: #FFF;
+  text-align: center;
+  padding: 30px 0;
+}
+
+.cta-color {
+  color: #FFF;
+
+}
+
+#footer {
+  background-color: #1A374D;
+  color: #FFF;
+  text-align: center;
+  padding: 30px 0;
+}
